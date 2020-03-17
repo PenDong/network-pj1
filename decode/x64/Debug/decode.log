@@ -1,0 +1,72 @@
+﻿  Cut_QRcode.cpp
+E:\c++\decode\decode\Cut_QRcode.cpp(18,108): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+E:\c++\decode\decode\Cut_QRcode.cpp(18,87): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+E:\c++\decode\decode\Cut_QRcode.cpp(29,33): warning C4244: “=”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+E:\c++\decode\decode\Cut_QRcode.cpp(35,35): warning C4244: “=”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+E:\c++\decode\decode\Cut_QRcode.cpp(206,108): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+E:\c++\decode\decode\Cut_QRcode.cpp(206,87): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+E:\c++\decode\decode\Cut_QRcode.cpp(217,33): warning C4244: “=”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+E:\c++\decode\decode\Cut_QRcode.cpp(223,35): warning C4244: “=”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+  Decode.cpp
+E:\c++\decode\decode\Decode.h(16): warning C4091: “static ”: 没有声明变量时忽略“Decode::COLORS”的左侧
+  Menu.cpp
+E:\c++\decode\decode\Decode.h(16): warning C4091: “static ”: 没有声明变量时忽略“Decode::COLORS”的左侧
+  Video_and_Image.cpp
+  主.cpp
+E:\c++\decode\decode\Decode.h(16): warning C4091: “static ”: 没有声明变量时忽略“Decode::COLORS”的左侧
+  正在生成代码...
+E:\c++\decode\decode\Decode.cpp(93): warning C4715: “Decode::get_upflag”: 不是所有的控件路径都返回值
+E:\c++\decode\decode\Decode.cpp(111): warning C4715: “Decode::get_downtflag”: 不是所有的控件路径都返回值
+E:\c++\decode\decode\Decode.cpp(75): warning C4715: “Decode::get_rightflag”: 不是所有的控件路径都返回值
+E:\c++\decode\decode\Decode.cpp(57): warning C4715: “Decode::get_leftflag”: 不是所有的控件路径都返回值
+E:\c++\decode\decode\Decode.cpp(315): warning C4715: “Decode::int_to_color”: 不是所有的控件路径都返回值
+E:\c++\decode\decode\Decode.cpp(574): warning C4715: “Decode::color_to_int”: 不是所有的控件路径都返回值
+  decode.vcxproj -> E:\c++\decode\x64\Debug\decode.exe
