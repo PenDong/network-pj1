@@ -1,0 +1,4 @@
+﻿  Create_images.cpp
+E:\c++\encode\encode\Create_images.h(17): warning C4091: “static ”: 没有声明变量时忽略“Create_images::COLORS”的左侧
+E:\c++\encode\encode\Create_images.cpp(112): warning C4715: “Create_images::number_to_color”: 不是所有的控件路径都返回值
+  encode.vcxproj -> E:\c++\encode\x64\Debug\encode.exe
